@@ -1,0 +1,44 @@
+{
+  "access": {
+    "record": "public",
+    "files": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "title": "Global Health Facilities from Healthsites.io",
+    "publication_date": "2026-01-29",
+    "resource_type": {
+      "id": "knowledge"
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "organizational",
+          "name": "Healthsites.io"
+        }
+      }
+    ],
+    "description": "A global dataset of health facility locations extracted from OpenStreetMap by the Healthsites.io project. Contains two resources: World-node (point locations of individual health facilities) and World-way (building footprints and outlines of health facilities). Data is provided in Shapefile format.",
+    "rights": [
+      {
+        "id": "odbl-1.0"
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "health facilities"
+      },
+      {
+        "subject": "healthcare"
+      },
+      {
+        "subject": "OpenStreetMap"
+      },
+      {
+        "subject": "global health"
+      }
+    ]
+  }
+}

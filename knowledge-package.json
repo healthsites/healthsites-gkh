@@ -1,0 +1,36 @@
+{
+  "knowledge_package": {
+    "metadata_file": "package/metadata.json",
+    "options": {
+      "include_doi": true
+    }
+  },
+  "resources": [
+    {
+      "metadata_file": "resources/world-node-metadata.json",
+      "files": [
+        "data/World-node.cpg",
+        "data/World-node.dbf",
+        "data/World-node.prj",
+        "data/World-node.shp",
+        "data/World-node.shx"
+      ],
+      "options": {
+        "include_doi": false
+      }
+    },
+    {
+      "metadata_file": "resources/world-way-metadata.json",
+      "files": [
+        "data/World-way.cpg",
+        "data/World-way.dbf",
+        "data/World-way.prj",
+        "data/World-way.shp",
+        "data/World-way.shx"
+      ],
+      "options": {
+        "include_doi": false
+      }
+    }
+  ]
+}

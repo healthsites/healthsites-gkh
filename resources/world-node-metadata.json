@@ -1,0 +1,44 @@
+{
+  "access": {
+    "record": "public",
+    "files": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "title": "Global Health Facilities - Point Locations (World-node)",
+    "publication_date": "2026-01-29",
+    "resource_type": {
+      "id": "dataset"
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "organizational",
+          "name": "Healthsites.io"
+        }
+      }
+    ],
+    "description": "Point geometry dataset of global health facility locations extracted from OpenStreetMap nodes by the Healthsites.io project. Each feature represents an individual health facility mapped as a node in OpenStreetMap. Provided in Shapefile format (.shp, .dbf, .shx, .prj, .cpg).",
+    "rights": [
+      {
+        "id": "odbl-1.0"
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "health facilities"
+      },
+      {
+        "subject": "healthcare"
+      },
+      {
+        "subject": "OpenStreetMap"
+      },
+      {
+        "subject": "point data"
+      }
+    ]
+  }
+}

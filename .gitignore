@@ -1,0 +1,7 @@
+.venv/
+*.iml
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.prj
+data/*.cpg

@@ -1,0 +1,44 @@
+{
+  "access": {
+    "record": "public",
+    "files": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "title": "Global Health Facilities - Building Footprints (World-way)",
+    "publication_date": "2026-01-29",
+    "resource_type": {
+      "id": "dataset"
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "organizational",
+          "name": "Healthsites.io"
+        }
+      }
+    ],
+    "description": "Polygon and line geometry dataset of global health facility building footprints extracted from OpenStreetMap ways by the Healthsites.io project. Each feature represents a health facility mapped as a way (building outline) in OpenStreetMap. Provided in Shapefile format (.shp, .dbf, .shx, .prj, .cpg).",
+    "rights": [
+      {
+        "id": "odbl-1.0"
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "health facilities"
+      },
+      {
+        "subject": "healthcare"
+      },
+      {
+        "subject": "OpenStreetMap"
+      },
+      {
+        "subject": "building footprints"
+      }
+    ]
+  }
+}
